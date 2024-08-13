@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mi\Desktop\Racing Simulator\Racing_Simulator\CMakeFiles\91adf33c5a735d1599aaad074fb08ca6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{00107895-C44D-36FA-B893-875F861621D9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

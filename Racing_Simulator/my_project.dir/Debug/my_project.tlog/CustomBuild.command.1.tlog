@@ -1,0 +1,10 @@
+^C:\USERS\MI\DESKTOP\RACING SIMULATOR\RACING_SIMULATOR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Mi/Desktop/Racing Simulator/Racing_Simulator" "-BC:/Users/Mi/Desktop/Racing Simulator/Racing_Simulator" --check-stamp-file "C:/Users/Mi/Desktop/Racing Simulator/Racing_Simulator/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
