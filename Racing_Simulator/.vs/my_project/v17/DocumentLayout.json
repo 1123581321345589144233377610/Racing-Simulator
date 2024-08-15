@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mi\\Desktop\\Racing Simulator\\Racing_Simulator\\",
+  "WorkspaceRootPath": "C:\\Users\\Mi\\Desktop\\RacingSimulator\\Racing_Simulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{619C442F-D857-3CF2-8A86-A066AECBFB0A}|my_project.vcxproj|C:\\Users\\Mi\\Desktop\\Racing Simulator\\Racing_Simulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{619C442F-D857-3CF2-8A86-A066AECBFB0A}|my_project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93E661D5-53D1-3ABE-85F4-82AA02924501}|my_project.vcxproj|C:\\Users\\Mi\\Desktop\\RacingSimulator\\Racing_Simulator\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93E661D5-53D1-3ABE-85F4-82AA02924501}|my_project.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Mi\\Desktop\\Racing Simulator\\Racing_Simulator\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mi\\Desktop\\RacingSimulator\\Racing_Simulator\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\Mi\\Desktop\\Racing Simulator\\Racing_Simulator\\main.cpp",
+              "ToolTip": "C:\\Users\\Mi\\Desktop\\RacingSimulator\\Racing_Simulator\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAqwI4AAAAAAAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwGMAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-13T20:50:10.796Z",
               "EditorCaption": ""

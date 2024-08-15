@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Mi\Desktop\Racing Simulator\Racing_Simulator\main.cpp">
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Mi\Desktop\Racing Simulator\Racing_Simulator\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{66FBC236-AA73-321F-976E-C5CBDD425586}</UniqueIdentifier>
+      <UniqueIdentifier>{D2AA5390-2DC4-31A1-9B71-C295B1CF68EE}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
