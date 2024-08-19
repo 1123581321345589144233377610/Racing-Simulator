@@ -16,7 +16,7 @@ int LandTransport::get_count() {
 
 double LandTransport::calc_time(double distance) {
 	double time{ distance / speed };
-	int number_of_rests{ static_cast<int>(floor(time / driving_time_before_rest)) };
+	int number_of_rests{ static_cast<int>(round(time / driving_time_before_rest) - 1) };
 	if (number_of_rests > 0) {
 		time += duration_of_rest1;
 		--number_of_rests;
