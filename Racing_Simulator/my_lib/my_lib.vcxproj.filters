@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\AirRace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\AirTransport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\Boots.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\Broom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\Camel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\Centaur.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\Eagle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\FastCamel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\LandAirRace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\LandRace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\LandTransport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\MagicCarpet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\Race.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\Transport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mi\Desktop\RacingSimulator\Racing_Simulator\my_lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D2AA5390-2DC4-31A1-9B71-C295B1CF68EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

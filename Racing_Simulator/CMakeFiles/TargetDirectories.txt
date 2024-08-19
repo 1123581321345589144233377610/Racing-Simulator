@@ -1,3 +1,5 @@
 C:/Users/Mi/Desktop/RacingSimulator/Racing_Simulator/CMakeFiles/my_project.dir
 C:/Users/Mi/Desktop/RacingSimulator/Racing_Simulator/CMakeFiles/ALL_BUILD.dir
 C:/Users/Mi/Desktop/RacingSimulator/Racing_Simulator/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Mi/Desktop/RacingSimulator/Racing_Simulator/my_lib/CMakeFiles/my_lib.dir
+C:/Users/Mi/Desktop/RacingSimulator/Racing_Simulator/my_lib/CMakeFiles/ALL_BUILD.dir
