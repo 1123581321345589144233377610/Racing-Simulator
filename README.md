@@ -33,7 +33,7 @@ The speed of the vehicle is 100 km/h, the distance is 1000 km, the driving time 
 Air vehicles move continuously. Since they can fly around obstacles, each air vehicle has its own distance reduction factor: that is, for each air vehicle, the distance to be traveled is reduced. The distance reduction factor can depend on the distance.
 
 ##### Example
-If an air vehicle has a distance reduction factor
+If the air vehicle has a distance reduction factor of 5%, then instead of a distance of 1000 km, it needs to travel a distance of 1000 * 0.95 = 950 km.
 
 ### Screenshots
 
